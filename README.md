@@ -65,6 +65,10 @@
 
 **Malware**: A software designed to harm devices or networks.
 - **Viruses**: Malicious code written to interfere with computer operations and cause damage to data and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the virus via a malicious attachment or file download. When someone opens the malicious attachment or download, the virus hides itself in other files in the now infected system. When the infected files are opened, it allows the virus to insert its own code to damage and/or destroy data in the system.
-- **Worms**:
-- **Ransomware**:
-- **Spyware**:
+- **Worms**: Malware that can duplicate and spread itself across system on its own. In contract to a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads from an already infected computer to other devices on the same network.
+- **Ransomware**: A malicious attack where threat actors encrypt an organization's data and demand payment to restore access.
+- **Spyware**: Malware that's used to gather and sell information without consent. Spycare can be used to access devices. This allows threat actors to collect personal data, such as private emails, texts, voice and image recordings, and locations.
+
+**Social engineering**: A manipulation technique that exploits human error to gain private information, access, or valuables.
+Some of the most common types of social engineering attacks today include:
+- ****:

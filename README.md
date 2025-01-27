@@ -71,4 +71,33 @@
 
 **Social engineering**: A manipulation technique that exploits human error to gain private information, access, or valuables.
 Some of the most common types of social engineering attacks today include:
-- ****:
+- **Social media phishing**: A threat actor collects detailed information about their target from social media sites. Then, they initiate an attack.
+- **Watering hole attack**: A threat actor attacks a website frequently visited by a specific group of users.
+- **USB Baiting**: A threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowningly infect a network.
+- **Physical social engineering**: A threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
+
+**Phishing**: The use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+Some of the most common types of phishing attacks today include:
+- **Business Email Compromise (BEC)**: A threat actor sends an email message that seems to be from a known source to make a seemingly legitimate request for information, in order to obtain a financial advantage.
+- **Spear phishing**: A malicious email attack that targets a specific user or group of users. The email seems to originate from a trusted source.
+- **Whaling attack**: A form of spear phishing. Threat actors target company executives to gain access to sensitive data.
+- **Vishing**: The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
+- **Smishing**: The use of text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+
+During a data breach, you have to stay calm.
+"The first thing you're going to do is, contain the breach."
+
+# ----
+**The eight CISSP security domains**
+**Eight Domains**
+1. **Security and Risk Management**: Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law.
+2. **Asset Security**: Secures digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data.
+3. **Security Architecture and Engineering**: Optimizes data security by ensuring effective tools, systems, and processes are in place.
+4. **Communication and Network Security**: Manage and secure physical networks and wireless communications.
+5. **Identity and Access Management**: Keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications.
+6. **Security Assessment and Testing**: Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities.
+7. **Security Operations**: Conducting investigations and implementing preventative measures.
+8. **Software Development Security**: Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services.
+
+# ----
+**Determine the type of attack**

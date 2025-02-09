@@ -66,3 +66,25 @@
 **#33: Apply the PASTA threat model framework**
 
 **#34: Document an incident with an incident handler's journal**
+
+**#35: Analyze your first packet**
+
+**#36: Capture your first packet**
+
+**#37: Research network protocol analyzers**
+
+**#38: Investigate a suspicious file hash (using OSINT: VirusTotal)**
+
+**#39: Use a playbook to respond to a phishing incident**
+
+**#40: Review a final report**
+
+**#41: Explore signatures and logs with Suricata**
+
+**#42: Perform a query with Splunk**
+
+**#43: Perform a query with Chronicle**
+
+**#44: Finalize your incident handler's journal**
+
+**#45: Practice writing Python code**

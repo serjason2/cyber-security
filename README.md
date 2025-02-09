@@ -88,3 +88,5 @@
 **#44: Finalize your incident handler's journal**
 
 **#45: Practice writing Python code**
+
+**#46: Assign Python variables**

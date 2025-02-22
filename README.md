@@ -90,3 +90,15 @@
 **#45: Practice writing Python code**
 
 **#46: Assign Python variables**
+
+**#47: Create a conditional statement**
+
+**#48: Create loops**
+
+**#49: Define and call a function**
+
+**#50: Create more functions**
+
+**#51: Work with strings in Python**
+
+**#52: Develop an algorithm**

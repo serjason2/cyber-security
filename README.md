@@ -102,3 +102,13 @@
 **#51: Work with strings in Python**
 
 **#52: Develop an algorithm**
+
+**#53: Use regular expressions to find patterns**
+
+**#54: Import and parse a text file**
+
+**#55: Create another algorithm**
+
+**#56: Update a file through a Python algorithm**
+
+**#57: Debug Python code**

@@ -181,3 +181,52 @@ Therer are also hackers who consider themselves vigilantes. Their main goal is t
 
 **Key takeways**
 Threat actors are defined by their malicious intent and hackers are defined by their technical skills and motivations. Understanding their motivations and intentions will help me be better prepared to protect your organization and the people it serves from malicious attacks carried out by some of these individuals and groups.
+
+# Module 3 (Protect Against Threats, Risks, & Vulnerabilites)
+**Learning Objectives**
+* Define security frameworks and controls
+* Define the CIA triad and NIST CSF
+* Discuss how the CIA triad and NIST CSF are used to develop procedures and processes to address security threats, risks, & vulnerabilites
+* Explain security ethics
+
+**Frameworks and Controls** <br>
+**Security frameworks**: Guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+**Purpose of security frameworks**
+* Protecting Personally Identifiable Information (PII)
+* Securing financial information
+* Identifying security weakness
+* Managing organizational risks
+* Aligning security with business goals
+
+**Components of security frameworks**
+1. Identifying and documenting security goals
+2. Setting guidelines to acheive security goals
+3. Implementing security processes
+4. Monitoring and communicating results
+
+**Security controls**: Safeguards designed to reduce specific security risks.
+
+**CIA Triad**: A foundational model that helps inform how organizations consider tisk when setting up systems and security policies.
+
+**Confidentiality**: Only authorized users can access specific assets or data.
+**Integrity**: Data is correct, authentic, and reliable.
+**Availability**: Data is accessible to those who are authorized to access it.
+**Asset**: An item perceived as having value to an organization.
+
+**NIST Cybersecurity Framework (CSF)**: A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
+**Controls, frameworks, and compliance** <br>
+**How controls, frameworks, and compliance are related** <br>
+The confidentiality, integrity, and availability (CIA) triad is a model that helps inform how organizations consider risk when setting up systems and security policies.
+
+**Ethics in Cybersecurity** <br>
+**Security ethics**: Guidelines for making appropriate decisions as a security professional.
+
+**Ethical principles in security**
+* Confidentiality
+* Privacy protection means safeguarding personal information from unauthorized use.
+* Laws are rules that are recognized by a community and enforced by a governing entity.
+
+**Ethical concepts that guide cybersecurity decisions** <br>
+As a future security professional, ethics will play a large role in my daily work. Understanding ethics and laws will help me make correct choices if and when you encounter a security threat or an incident that results in a breach.

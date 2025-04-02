@@ -230,3 +230,84 @@ The confidentiality, integrity, and availability (CIA) triad is a model that hel
 
 **Ethical concepts that guide cybersecurity decisions** <br>
 As a future security professional, ethics will play a large role in my daily work. Understanding ethics and laws will help me make correct choices if and when you encounter a security threat or an incident that results in a breach.
+
+# Module 4 (Cybersecurity Tools & Programming Languages)
+**Learning Objectives** <br>
+* Identify common tools used by entry-level security analysts
+* Identify the purposes of commonly used tools
+* Identify commonly used programming languages and how entry-leve security analysts interact with those languages
+* Discuss how entry-level security analysts use tools and programming languages to mitigate risk
+
+**Important cybersecurity tools** <br>
+**Log**: A record of events that occur within an organization's systems.
+**SIEM tool**: An application that collects and analyzes log data to monitor critical activities in an organization.
+
+**Other key security tools**
+* **Playbook**: A manual that provides details about any operational action.
+* **Network protocol analyzer (packet sniffer)**: A tool designed to capture and analyze data traffic within a network.
+   - tcpdump, Wireshark
+ 
+**Core cyberesecurity knowledge and skills** <br>
+**Programming**: Used to create a specific set of instructions for a computer to execute tasks.
+**Linux**: An open-source operating system.
+**Structured Query Language (SQL)**: A programming language used to create, interact with, and request information from a database.
+**Database**: An organized collection of information or data.
+**Python**: Used to perform tasks that are repetitive and time-consuming, and that require a high level of detail and accuracy.
+
+# Module 1.2 (CISSP)
+**More about the CISSP security domains** <br>
+**Learning objectives** <br>
+* CISSP's eight security domains
+* Threats, risks, and vulnerabilities
+* Layers of the web
+* The NIST Risk Management Framework (RMF)
+
+**Security posture**: An organization's ability to manage its defense of all critical assets and data, and react to change <br>
+**Security and risk management**: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulations. <br>
+**Risk mitigation**: The process of having the right procedures and rules in place to quickly reduce the impact of a risk like a breach <br>
+**Business continuity**: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans <br>
+**Asset security**: Focused on securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data <br>
+**Security architecture and engineering**: Focused on optimizing data security by ensuring effective tools, systems, and processes are in place to protect an organization's assets and data <br>
+**Shared responsibility**: All individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security. <br>
+**Communication and network security**: Focused on managing and securing physical networks and wireless communications <br>
+**Identity and Access Management (IAM)**: Focused on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets. <br>
+**Components of IAM**
+
+   - Identification
+   - Authentication
+   - Authorization
+   - Accountability
+
+**Security Assessment and Testing**: Focused on conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities <br>
+**Security Operations**: Focused on conducting investigations and implementing preventative measures <br>
+**Software Development Security**: Focused on using secure coding practices <br>
+
+**Navigate threats, risks, and vulnerabilities** <br>
+**Threat**: Any circumstance or event that can negatively impact assets. <br>
+**Social Engineering**: A manipulation technique that exploits human error to gain private information, access, or valuables <br>
+**Risk**: Anything that can impact the Confidentiality, Integrity, and Availability (CIA Triad) of an asset. <br>
+**Low-risk Asset**: Information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised <br>
+**Medium-risk Asset**: Information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations <br>
+**High-risk Asset**: Information protected by regulations or laws, which if compromised would have a severe negative impact on an organization's finances, ongoing operations, or reputation <br>
+**Vulnerability**: A weakness that can be exploited by a threat <br>
+**Ransomware**: A malicious attack where threat actors (TAs) encrypt an organization's data and demand payment to restore access
+
+**Layers of the web** <br>
+- **Surface web**: Most people use, contains content that can be accessed using a web browser.
+- **Deep web**: Generally requires authorization to access it.
+- **Dark web**: Can only be accessed by using special software.
+
+**Kep impacts (threats, risks, and vulnerabilities)** <br>
+* Financial
+* Identity theft
+* Reputation
+
+**Risk Management Framework (RMF)**
+* **Prepare**: Activities that are necessary to manage security and privacy risks before a breach occurs
+* **Categorize**: Used to develop risk management processes and tasks.
+* **Select**: Choose, customize, and capture documentation of the controls that protect an organization.
+* **Implement**: Implement security and privacy plans for the organization.
+* **Assess**: Determine if established controls are implemented correctly.
+* **Authorize**: Being accountable for the security and privacy risks that may exist in an organization.
+* **Monitor**: Be aware of how systems are operating.
+
